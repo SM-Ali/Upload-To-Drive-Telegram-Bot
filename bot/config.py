@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = "2112033491:AAGl5ZU6SBL1nEWHE2PwJ-zAUC2nEJBO6m8"
-    APP_ID = "9927614"
-    API_HASH = "f071ec00bb6ad4a3c8d0f10d3993f6d3"
-    DATABASE_URL = "postgres://brdiofgwltezqu:0853a0959d440f6f9cdc77ca258d24656fe9868e3e56a518aae573d52edfcd23@ec2-18-213-133-45.compute-1.amazonaws.com:5432/dt1c33poeb8c8"
+    BOT_TOKEN = "5281126030:AAH_ZZsD1qEgjxffbGyYbaHVxbeu_7qdbVM"
+    APP_ID = "14852405"
+    API_HASH = "974ce6b000d82a2bfe0c661a1b060ac1"
+    DATABASE_URL = "postgres://pxlpzgrmujcohs:61f2a8645d65f6eb53926949dda1c9b674d71bdf5fe7bc601b4cbba5ad1d4e11@ec2-23-23-182-238.compute-1.amazonaws.com:5432/dfhded4ocd455qoeb8c8"
     SUDO_USERS = "1874398936 1433606591" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/+0sC1l-x72lVmOTk9"
+    SUPPORT_CHAT_LINK = "https://t.me/smmdsahebali"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "650764564044-s23f8d24spktppca5s857m4eru91bmhu.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
